@@ -41,6 +41,20 @@ npm run dev
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
+  
+  **output**
+  ![Screenshot 2025-07-04 224137](https://github.com/user-attachments/assets/cdd25f69-4a9a-4c87-85b9-285ba04b4257)
+  
+  ![Screenshot 2025-07-04 224253](https://github.com/user-attachments/assets/e3a61a9e-09f5-43c6-a65a-34b0ca2071ef)
+  
+  ![Screenshot 2025-07-04 224313](https://github.com/user-attachments/assets/0dc5902a-ad29-49eb-84a0-e9c53bc7b561)
+  
+  ![Screenshot 2025-07-04 224329](https://github.com/user-attachments/assets/13b52baa-1989-4f37-b89f-0c3bb0a1ded5)
+
+
+
+
+  
 
 **Use GitHub Codespaces**
 
